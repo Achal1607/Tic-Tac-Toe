@@ -1,0 +1,40 @@
+const Game=[
+    {
+        id:0,
+        isSelected:null
+    },
+    {
+        id:1,
+        isSelected:null
+    },
+    {
+        id:2,
+        isSelected:null
+    },
+    {
+        id:3,
+        isSelected:null
+    },
+    {
+        id:4,
+        isSelected:null
+    },
+    {
+        id:5,
+        isSelected:null
+    },
+    {
+        id:6,
+        isSelected:null
+    },
+    {
+        id:7,
+        isSelected:null
+    },
+    {
+        id:8,
+        isSelected:null
+    }
+]
+
+export default Game;
